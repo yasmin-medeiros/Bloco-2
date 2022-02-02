@@ -10,7 +10,7 @@ Utilizando apenas HTML, um formulário simples para contato.
   </div>
   <br>
   
-### O segundo formulário é completo e tem a funcionalidade de obter informações para contratação 📋
+### O segundo formulário é completo e, tem a funcionalidade de obter informações para contratação 📋
 
 Utilizando -> HTML e CSS.
 
