@@ -10,8 +10,11 @@ Utilizando apenas HTML, um formulário simples para contato.
   </div>
   <br>
   <br>
-### O segundo formulário é completo, em formato para obtenção de informações para contratação
+### O segundo formulário é completo e, tem a funcionalidade de obter informações para contratação
 
 Utilizando -> HTML e CSS.
 <br>
+<div align="center">
+       <img width="664" alt="Formulário 2" src="https://user-images.githubusercontent.com/89019231/152159593-5df40ada-4500-495d-80f9-bbf0306c9eaa.png">
+</div>
 
