@@ -22,3 +22,7 @@ Utilizando apenas HTML, um formulário simples para contato.
        <img width="664" alt="Formulário 2" src="https://user-images.githubusercontent.com/89019231/152159593-5df40ada-4500-495d-80f9-bbf0306c9eaa.png">
 </div>
 
+<br>
+  <br>
+  <p align="justify">Status do projeto: ✅ </p>
+
